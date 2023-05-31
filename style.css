@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+
+.foto-perfil {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+main{
+    display: flex;
+}
+
+#experiencia{
+    flex: 7;
+}
+#contacto{
+    flex: 3;
+}
